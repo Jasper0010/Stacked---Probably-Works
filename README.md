@@ -16,3 +16,5 @@ This document pertains to the installation process for Stacked - Probably Works.
 
 ### Launching the Game
 This is the final step, and once you launch the game for the first time, everything should be ready to go.
+
+# DO NOT UPDATE ANY MODS. THIS MAY BREAK YOUR INSTALLATION OF THE MODPACK
